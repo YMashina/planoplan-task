@@ -1,0 +1,8 @@
+export const SET_USER = 'SET_USER';
+export const SET_PAGE = 'SET_PAGE';
+export const SET_POSTS = 'SET_POSTS';
+export const RESET_POSTS = 'RESET_POSTS';
+export const SET_POSTS_LOADING = 'SET_POSTS_LOADING';
+export const SET_CURRENT_POST = 'SET_CURRENT_POST';
+export const SET_CURRENT_POST_LOADING = 'SET_CURRENT_POST_LOADING';
+export const SET_SHOW_LOADMORE = 'SET_SHOW_LOADMORE';
