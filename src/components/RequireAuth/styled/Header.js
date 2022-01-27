@@ -9,6 +9,7 @@ const Header = styled.div`
   color: #383838;
   gap: 1rem;
   padding: 0 1rem;
+  flex-shrink: 0;
 `;
 
 export default Header;
